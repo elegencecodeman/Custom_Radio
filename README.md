@@ -151,5 +151,5 @@ This repository is prepared so those paths are ignored by git.
 
 - Several text strings in the current codebase show encoding issues. That does not block local development, but it is worth cleaning up before a public release.
 - The backend serves files from `web/public` directly. The React app in `web/src` is the newer frontend path for Vite-based development.
-- 冲突测试：本地版本
+- 冲突测试：版本
 
