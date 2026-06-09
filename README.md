@@ -72,11 +72,13 @@ npm.cmd run web:dev
 
 Music search uses `guohuiyuan/go-music-api` with `GO_MUSIC_SOURCE=kugou`, then falls back to local Kugou playlist data if that service is unavailable. Fish Audio is used for Claudio's spoken announcements.
 
-Some Tips: Run `go-music-api` on a different port from Claudio, for example:
-   'go run main.go' start
+Tips: Run `go-music-api` on a different port from Claudio, for example:
+   'go run main.go' start 
 ```text
 Claudio:      http://127.0.0.1:8080
 go-music-api: http://127.0.0.1:8081
 ```
 
 API keys live in `server/.env`, which is ignored by git.
+
+Change
