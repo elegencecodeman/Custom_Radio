@@ -1,6 +1,6 @@
-# Claudio AI Radio
+# AI Radio Project
 
-Claudio AI Radio is a local-first AI DJ project. It combines a Node.js backend, a React/Vite frontend, weather and calendar context, music search, and TTS announcements to turn a short user prompt into a narrated playback queue.
+ AI Radio is a local-first AI DJ project. It combines a Node.js backend, a React/Vite frontend, weather and calendar context, music search, and TTS announcements to turn a short user prompt into a narrated playback queue.
 
 ## Features
 
