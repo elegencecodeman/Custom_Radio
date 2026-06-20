@@ -1,0 +1,170 @@
+  CustomControl
+  CustomControl
+    ImageControl
+    ImageControl
+    ImageControl
+    ImageControl
+    ImageControl
+    TabControl | 音乐
+      CustomControl
+      ImageControl
+      ImageControl
+      TabItemControl | 音乐
+      CustomControl
+        CustomControl
+          ImageControl
+          PaneControl | 导航
+            ListControl | 导航
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl | 默认收藏
+              ListItemControl | 我喜欢
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl | 我喜欢
+              ListItemControl | 默认收藏
+              ListItemControl | 香港地区榜/2025年第246期
+              ListItemControl | 我的2023年度歌单
+              ListItemControl | 粤语
+              ListItemControl | 我的歌单
+              ListItemControl | 默认列表
+              ListItemControl | 收藏歌单
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+              ListItemControl
+          CustomControl
+          CustomControl
+            ButtonControl
+            TabControl | 自建歌单TAB
+              CustomControl
+              CustomControl
+              TabItemControl | 自建歌单TAB
+              TabItemControl | 收藏歌单TAB
+              TabItemControl | 收藏专辑TAB
+        CustomControl
+          CustomControl
+            CustomControl
+              TextControl | 我的收藏
+              TabControl | 单曲
+                CustomControl
+                CustomControl
+                TabItemControl | 单曲
+                CustomControl
+                  CustomControl
+                    CustomControl
+                    CustomControl
+                TabItemControl | 歌单
+                TabItemControl | 专辑
+                TabItemControl | 视频
+                TabItemControl | 歌手
+                TabItemControl | 设备
+            ScrollBarControl
+            CustomControl
+              ImageControl
+              ButtonControl | 回到顶部
+      CustomControl
+    CustomControl
+      CustomControl
+        CustomControl
+          CustomControl
+            ImageControl | 我的头像
+            ImageControl
+          TextControl | 小飞侠
+          CustomControl
+            ImageControl | 立即续费
+            ButtonControl | Lv11
+        CustomControl
+          ButtonControl | 个性皮肤
+          ImageControl
+        CustomControl
+          ButtonControl | 消息中心
+          ImageControl
+        CustomControl
+          ButtonControl | 主菜单
+        ImageControl
+        CustomControl
+          ButtonControl | 精简模式
+        ButtonControl | 最小化
+        ButtonControl | 最大化
+        ButtonControl | 关闭
+      CustomControl
+        CustomControl
+          EditControl | 搜索
+          ButtonControl | 搜索
+        CustomControl
+          ImageControl
+          ButtonControl | 听歌识曲
+      ButtonControl | 返回
+      ButtonControl | 刷新
+    CustomControl
+    CustomControl
+    CustomControl
+      ImageControl
+      ImageControl | 点击收听歌曲预览
+      ImageControl
+      ImageControl
+      SliderControl | 进度
+      CustomControl
+        ButtonControl | 查看歌词写真
+        CustomControl
+          CustomControl
+            HyperlinkControl | 酷狗音乐
+          CustomControl
+            TextControl | 00:00/00:00
+          CustomControl
+            ButtonControl | 收起歌曲详情页
+            CustomControl
+              ButtonControl | 收藏视频
+            ButtonControl | 下载
+            ButtonControl | 打开MV评论
+            ButtonControl | 观看MV
+            CheckBoxControl | 更多
+        CustomControl
+          CustomControl
+          CustomControl
+            ImageControl | 上一首
+            ButtonControl | 上一首
+            ImageControl | 播放
+            ButtonControl | 播放
+            ImageControl | 下一首
+            ButtonControl | 下一首
+        CustomControl
+          ButtonControl | 顺序播放
+          SliderControl | 音量
+          ButtonControl | 超清
+          ButtonControl | 丽音
+          ButtonControl | 伴唱
+          ButtonControl | 关闭桌面歌词
+          ButtonControl | 播放队列
+    ImageControl
+  CustomControl

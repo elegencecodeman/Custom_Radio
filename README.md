@@ -80,5 +80,3 @@ go-music-api: http://127.0.0.1:8081
 ```
 
 API keys live in `server/.env`, which is ignored by git.
-
-Change

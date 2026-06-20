@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#c86d4e">
+    <link rel="manifest" href="/manifest.webmanifest">
+    <link rel="stylesheet" href="/styles.css">
+    <title>Claudio Radio</title>
+  </head>
+  <body>
+    <main class="shell">
+      <section class="player">
+        <div class="brand">
+          <span class="signal"></span>
+          <div>
+            <p>Claudio</p>
+            <h1>私人 AI 电台</h1>
+          </div>
+        </div>
+
+        <div class="cover" aria-label="Now playing cover">
+          <div class="disc"></div>
+        </div>
+
+        <div class="track">
+          <p id="artist">local radio</p>
+          <h2 id="title">等待 Claudio 开播</h2>
+          <span id="reason">taste + mood rules + playlist</span>
+        </div>
+
+        <audio id="audio" controls preload="none"></audio>
+
+        <div class="controls">
+          <button id="prev" title="上一首" type="button">&lt;</button>
+          <button id="play" class="primary" title="播放" type="button">Play</button>
+          <button id="next" title="下一首" type="button">&gt;</button>
+        </div>
+
+        <div class="meter">
+          <span></span>
+        </div>
+      </section>
+
+      <section class="console">
+        <header>
+          <div>
+            <p>local server</p>
+            <h2>Claudio 中枢</h2>
+          </div>
+          <span id="status">offline</span>
+        </header>
+
+        <form id="chatForm" class="composer">
+          <input id="message" name="message" autocomplete="off" placeholder="说一句：写代码 / emo / 开车提神 / 睡前">
+          <button type="submit">发送</button>
+        </form>
+
+        <div class="quick">
+          <button data-prompt="我要写代码，来点不打扰的">写代码</button>
+          <button data-prompt="今晚有点 emo">emo</button>
+          <button data-prompt="开车提神">开车</button>
+          <button data-prompt="睡前放松">睡前</button>
+        </div>
+
+        <article class="say">
+          <p>Claudio says</p>
+          <div id="say">我会把 playlist、taste、routines 和 mood rules 组装成 prompt，再让 DeepSeek 做大脑。</div>
+        </article>
+
+        <div class="grid">
+          <article>
+            <p>今日节奏</p>
+            <ul id="plan"></ul>
+          </article>
+          <article>
+            <p>候选队列</p>
+            <ul id="queue"></ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="tools">
+        <header>
+          <p>API contract</p>
+          <h2>接口状态</h2>
+        </header>
+        <div id="tools"></div>
+      </section>
+    </main>
+    <script src="/app.js" type="module"></script>
+  </body>
+</html>

@@ -1,0 +1,9 @@
+{
+  "name": "Claudio Radio",
+  "short_name": "Claudio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#10100e",
+  "theme_color": "#c86d4e",
+  "icons": []
+}

@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+server/.env
+node_modules/
+.DS_Store
+Thumbs.db
+state/*.db
+state/*.json
+cache/
+tmp/
+get_song/.playwright/
+get_song/node_modules/

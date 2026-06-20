@@ -1,0 +1,13 @@
+{
+  "name": "smart-radio-kugou-export",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "export:kugou-liked": "node scripts/export-kugou-liked.js",
+    "export:kugou-client-liked": "python scripts/export_kugou_client_liked.py"
+  },
+  "dependencies": {
+    "playwright": "^1.54.2"
+  }
+}

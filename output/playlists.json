@@ -1,0 +1,386 @@
+{
+  "profile": {
+    "generatedAt": "2026-05-21",
+    "source": "酷狗音乐收藏",
+    "totalSongs": 1945,
+    "totalArtists": 662
+  },
+
+  "favoriteArtists": [
+    {
+      "rank": 1,
+      "name": "陈奕迅",
+      "nameEn": "Eason Chan",
+      "region": "香港",
+      "songCount": 110,
+      "tags": ["粤语流行", "情歌", "港乐标杆"]
+    },
+    {
+      "rank": 2,
+      "name": "周杰伦",
+      "nameEn": "Jay Chou",
+      "region": "台湾",
+      "songCount": 104,
+      "tags": ["华语流行", "R&B", "中国风", "台湾代表"]
+    },
+    {
+      "rank": 3,
+      "name": "陶喆",
+      "nameEn": "David Tao",
+      "region": "台湾",
+      "songCount": 64,
+      "tags": ["R&B", "Soul", "华语R&B先驱"]
+    },
+    {
+      "rank": 4,
+      "name": "林俊杰",
+      "nameEn": "JJ Lin",
+      "region": "新加坡/台湾",
+      "songCount": 42,
+      "tags": ["华语流行", "情歌", "电音融合"]
+    },
+    {
+      "rank": 5,
+      "name": "王力宏",
+      "nameEn": "Leehom Wang",
+      "region": "台湾",
+      "songCount": 39,
+      "tags": ["R&B", "中国风", "嘻哈融合"]
+    },
+    {
+      "rank": 6,
+      "name": "MC 张天赋",
+      "nameEn": "MC Zhang Tianfu",
+      "region": "香港",
+      "songCount": 32,
+      "tags": ["粤语流行", "新生代港乐"]
+    },
+    {
+      "rank": 7,
+      "name": "Taylor Swift",
+      "region": "美国",
+      "songCount": 29,
+      "tags": ["欧美流行", "Country-Pop", "叙事歌词"]
+    },
+    {
+      "rank": 8,
+      "name": "G.E.M. 邓紫棋",
+      "nameEn": "G.E.M.",
+      "region": "香港",
+      "songCount": 28,
+      "tags": ["粤语/普通话流行", "摇滚融合", "创作型歌手"]
+    },
+    {
+      "rank": 9,
+      "name": "YOASOBI",
+      "region": "日本",
+      "songCount": 27,
+      "tags": ["J-Pop", "小说改编", "电音叙事"]
+    },
+    {
+      "rank": 10,
+      "name": "五月天",
+      "nameEn": "Mayday",
+      "region": "台湾",
+      "songCount": 23,
+      "tags": ["台湾摇滚", "励志", "青春"]
+    },
+    {
+      "rank": 11,
+      "name": "周柏豪",
+      "nameEn": "Pakho Chau",
+      "region": "香港",
+      "songCount": 22,
+      "tags": ["粤语流行", "创作型歌手"]
+    },
+    {
+      "rank": 12,
+      "name": "孙燕姿",
+      "nameEn": "Stefanie Sun",
+      "region": "新加坡",
+      "songCount": 22,
+      "tags": ["华语流行", "清新", "女声代表"]
+    },
+    {
+      "rank": 13,
+      "name": "方大同",
+      "nameEn": "Khalil Fong",
+      "region": "香港",
+      "songCount": 22,
+      "tags": ["R&B", "Soul", "Jazz", "港产R&B"]
+    },
+    {
+      "rank": 14,
+      "name": "李荣浩",
+      "region": "中国",
+      "songCount": 21,
+      "tags": ["华语流行", "创作型", "都市情歌"]
+    },
+    {
+      "rank": 15,
+      "name": "梁静茹",
+      "nameEn": "Fish Leong",
+      "region": "马来西亚/台湾",
+      "songCount": 21,
+      "tags": ["华语流行", "情歌", "温柔女声"]
+    },
+    {
+      "rank": 16,
+      "name": "Bruno Mars",
+      "region": "美国",
+      "songCount": 19,
+      "tags": ["R&B", "Pop", "Funk", "Soul"]
+    },
+    {
+      "rank": 17,
+      "name": "Gareth.T",
+      "region": "香港",
+      "songCount": 19,
+      "tags": ["粤语流行", "创作型"]
+    },
+    {
+      "rank": 18,
+      "name": "卫兰",
+      "nameEn": "Janice Vidal",
+      "region": "香港",
+      "songCount": 19,
+      "tags": ["粤语流行", "情歌"]
+    },
+    {
+      "rank": 19,
+      "name": "容祖儿",
+      "nameEn": "Joey Yung",
+      "region": "香港",
+      "songCount": 18,
+      "tags": ["粤语流行", "天后", "情歌"]
+    },
+    {
+      "rank": 20,
+      "name": "Aimer",
+      "region": "日本",
+      "songCount": 16,
+      "tags": ["J-Pop", "Anime OST", "空灵女声"]
+    }
+  ],
+
+  "genres": [
+    {
+      "name": "粤语流行 (Cantopop)",
+      "weight": "★★★★★",
+      "percentage": 25,
+      "description": "港乐为收藏核心之一，从张学友、邓丽君等经典跨越至陈奕迅、MC 张天赋新生代",
+      "keyArtists": ["陈奕迅", "MC 张天赋", "方大同", "卫兰", "容祖儿", "张学友", "周柏豪", "BEYOND", "G.E.M. 邓紫棋", "侧田", "张敬轩", "Gareth.T"]
+    },
+    {
+      "name": "台湾华语流行 (Mandopop)",
+      "weight": "★★★★★",
+      "percentage": 26,
+      "description": "2000年代台湾黄金华语时代的深度收藏，周杰伦、陶喆、林俊杰构成主干",
+      "keyArtists": ["周杰伦", "陶喆", "林俊杰", "王力宏", "五月天", "孙燕姿", "梁静茹", "蔡依林", "李荣浩"]
+    },
+    {
+      "name": "华语 R&B / Soul",
+      "weight": "★★★★☆",
+      "percentage": 12,
+      "description": "以陶喆为代表的华语R&B，深度融合黑人音乐元素与中文歌词",
+      "keyArtists": ["陶喆", "方大同", "王力宏", "MC 张天赋"]
+    },
+    {
+      "name": "欧美流行 (Western Pop)",
+      "weight": "★★★★☆",
+      "percentage": 18,
+      "description": "以 Taylor Swift、Bruno Mars 为核心，涵盖主流欧美流行",
+      "keyArtists": ["Taylor Swift", "Bruno Mars", "Ed Sheeran", "Charlie Puth", "Justin Bieber", "Adele", "Shawn Mendes"]
+    },
+    {
+      "name": "日系流行 / Anime OST",
+      "weight": "★★★☆☆",
+      "percentage": 7,
+      "description": "偏向叙事性 J-Pop 与动漫配乐，有明显动漫文化背景",
+      "keyArtists": ["YOASOBI", "Aimer", "米津玄師", "Official髭男dism", "LiSA", "Eve", "ずっと真夜中でいいのに。"]
+    },
+    {
+      "name": "摇滚 / 另类 (Rock/Alternative)",
+      "weight": "★★★☆☆",
+      "percentage": 8,
+      "description": "Queen、五月天、Avril Lavigne 代表的摇滚偏好",
+      "keyArtists": ["Queen", "五月天", "Avril Lavigne", "Imagine Dragons", "5 Seconds of Summer", "BEYOND"]
+    },
+    {
+      "name": "电子 / EDM",
+      "weight": "★★☆☆☆",
+      "percentage": 4,
+      "description": "少量舞曲，以氛围感为主，非纯 club 风格",
+      "keyArtists": ["Alan Walker", "Avicii", "The Chainsmokers", "Kygo"]
+    }
+  ],
+
+  "playlists": [
+    {
+      "id": "pl_001",
+      "name": "港乐深夜场",
+      "description": "陈奕迅领衔，香港情歌的细腻与无奈，适合深夜独处",
+      "mood": "感伤 / 深情",
+      "language": "粤语",
+      "songs": [
+        { "songName": "富士山下", "artist": "陈奕迅" },
+        { "songName": "好久不见", "artist": "陈奕迅" },
+        { "songName": "爱情转移", "artist": "陈奕迅" },
+        { "songName": "十年", "artist": "陈奕迅" },
+        { "songName": "最佳损友", "artist": "陈奕迅" },
+        { "songName": "大开眼戒", "artist": "陈奕迅" },
+        { "songName": "相爱很难", "artist": "陈奕迅" },
+        { "songName": "别故意找我聊天了", "artist": "MC 张天赋" },
+        { "songName": "浪漫杀死巨蟹座", "artist": "Anson Lo 卢瀚霆" },
+        { "songName": "我的骄傲", "artist": "容祖儿" },
+        { "songName": "分分钟需要你", "artist": "卫兰" },
+        { "songName": "难得有情人", "artist": "张学友" }
+      ]
+    },
+    {
+      "id": "pl_002",
+      "name": "周杰伦 × 陶喆 华语 R&B 黄金时代",
+      "description": "2000年代华语流行最黄金的十年，R&B 融合、中国风、Soul，一次集齐",
+      "mood": "热血 / 怀旧 / 深情",
+      "language": "普通话",
+      "songs": [
+        { "songName": "告白气球", "artist": "周杰伦" },
+        { "songName": "青花瓷", "artist": "周杰伦" },
+        { "songName": "稻香", "artist": "周杰伦" },
+        { "songName": "晴天", "artist": "周杰伦" },
+        { "songName": "七里香", "artist": "周杰伦" },
+        { "songName": "就是爱你", "artist": "陶喆" },
+        { "songName": "普通朋友", "artist": "陶喆" },
+        { "songName": "爱，很简单", "artist": "陶喆" },
+        { "songName": "天天", "artist": "陶喆" },
+        { "songName": "今天你要嫁给我", "artist": "陶喆、蔡依林" },
+        { "songName": "你的背包", "artist": "陈奕迅" },
+        { "songName": "小酒窝", "artist": "林俊杰、蔡卓妍" }
+      ]
+    },
+    {
+      "id": "pl_003",
+      "name": "欧美流行精选",
+      "description": "Taylor Swift、Bruno Mars 等欧美天花板，朗朗上口的旋律",
+      "mood": "愉快 / 活力",
+      "language": "英语",
+      "songs": [
+        { "songName": "Shake It Off", "artist": "Taylor Swift" },
+        { "songName": "Love Story (Taylor's Version)", "artist": "Taylor Swift" },
+        { "songName": "Anti-Hero", "artist": "Taylor Swift" },
+        { "songName": "Uptown Funk (feat. Bruno Mars)", "artist": "Mark Ronson、Bruno Mars" },
+        { "songName": "Just The Way You Are", "artist": "Bruno Mars" },
+        { "songName": "Shape of You", "artist": "Ed Sheeran" },
+        { "songName": "Attention", "artist": "Charlie Puth" },
+        { "songName": "Someone Like You", "artist": "Adele" },
+        { "songName": "Blinding Lights", "artist": "The Weeknd" },
+        { "songName": "Bohemian Rhapsody", "artist": "Queen" }
+      ]
+    },
+    {
+      "id": "pl_004",
+      "name": "日系动漫情绪包",
+      "description": "YOASOBI、Aimer、米津玄師，叙事感与空灵感并存",
+      "mood": "唯美 / 幻想 / 感伤",
+      "language": "日语",
+      "songs": [
+        { "songName": "夜に駆ける", "artist": "YOASOBI" },
+        { "songName": "アイドル", "artist": "YOASOBI" },
+        { "songName": "群青", "artist": "YOASOBI" },
+        { "songName": "残響散歌", "artist": "Aimer" },
+        { "songName": "茜さす", "artist": "Aimer" },
+        { "songName": "Lemon", "artist": "米津玄師" },
+        { "songName": "POP STAR", "artist": "米津玄師" },
+        { "songName": "Pretender", "artist": "Official髭男dism" },
+        { "songName": "炎", "artist": "LiSA" },
+        { "songName": "アイネクライネ", "artist": "米津玄師" }
+      ]
+    },
+    {
+      "id": "pl_005",
+      "name": "华语女声天后",
+      "description": "孙燕姿、梁静茹、G.E.M.、张惠妹——华语女声的绝代风华",
+      "mood": "感动 / 温柔 / 力量",
+      "language": "普通话 / 粤语",
+      "songs": [
+        { "songName": "天黑黑", "artist": "孙燕姿" },
+        { "songName": "遇见", "artist": "孙燕姿" },
+        { "songName": "勇气", "artist": "梁静茹" },
+        { "songName": "情歌", "artist": "梁静茹" },
+        { "songName": "泡沫", "artist": "G.E.M. 邓紫棋" },
+        { "songName": "光年之外", "artist": "G.E.M. 邓紫棋" },
+        { "songName": "我最亲爱的", "artist": "张惠妹" },
+        { "songName": "给我一个理由忘记", "artist": "A-Lin" },
+        { "songName": "有一种悲伤", "artist": "A-Lin" },
+        { "songName": "失恋无罪", "artist": "A-Lin" }
+      ]
+    },
+    {
+      "id": "pl_006",
+      "name": "港乐黄金时代",
+      "description": "邓丽君、张学友、BEYOND——无法超越的粤语经典",
+      "mood": "经典 / 怀旧 / 永恒",
+      "language": "粤语 / 普通话",
+      "songs": [
+        { "songName": "月亮代表我的心", "artist": "邓丽君" },
+        { "songName": "甜蜜蜜", "artist": "邓丽君" },
+        { "songName": "一路上有你", "artist": "张学友" },
+        { "songName": "吻别", "artist": "张学友" },
+        { "songName": "海阔天空", "artist": "BEYOND" },
+        { "songName": "光辉岁月", "artist": "BEYOND" },
+        { "songName": "真的爱你", "artist": "BEYOND" }
+      ]
+    },
+    {
+      "id": "pl_007",
+      "name": "台湾摇滚青春",
+      "description": "五月天领头，青春、热血、梦想，适合运动或驾车",
+      "mood": "热血 / 励志 / 青春",
+      "language": "普通话",
+      "songs": [
+        { "songName": "突然好想你", "artist": "五月天" },
+        { "songName": "后来的我们", "artist": "五月天" },
+        { "songName": "如烟", "artist": "五月天" },
+        { "songName": "我不愿让你一个人", "artist": "五月天" },
+        { "songName": "离开地球表面", "artist": "五月天" },
+        { "songName": "知足", "artist": "五月天" }
+      ]
+    },
+    {
+      "id": "pl_008",
+      "name": "深夜情绪治愈",
+      "description": "林俊杰、王力宏、李荣浩，温柔包裹的情歌，适合睡前",
+      "mood": "治愈 / 温柔 / 感伤",
+      "language": "普通话",
+      "songs": [
+        { "songName": "不为谁而作的歌", "artist": "林俊杰" },
+        { "songName": "曹操", "artist": "林俊杰" },
+        { "songName": "江南", "artist": "林俊杰" },
+        { "songName": "需要人陪", "artist": "王力宏" },
+        { "songName": "心跳", "artist": "王力宏" },
+        { "songName": "李白", "artist": "李荣浩" },
+        { "songName": "不遗余力", "artist": "李荣浩" },
+        { "songName": "老街", "artist": "李荣浩" }
+      ]
+    }
+  ],
+
+  "tasteProfile": {
+    "primaryLanguages": ["粤语", "普通话", "英语", "日语"],
+    "coreGenres": ["华语流行", "粤语流行 Cantopop", "华语 R&B", "欧美流行", "J-Pop"],
+    "secondaryGenres": ["摇滚", "Soul", "电子 EDM", "Anime OST"],
+    "moodPreferences": ["情歌", "感伤", "治愈", "怀旧", "深情"],
+    "eraPreferences": ["1990s经典", "2000s黄金华语", "2010s主流", "2020s新生代"],
+    "characteristicTags": [
+      "情歌控",
+      "华语流行深度爱好者",
+      "港乐情怀",
+      "台湾R&B黄金年代",
+      "动漫音乐圈",
+      "欧美主流跟进",
+      "叙事歌词偏好",
+      "陈奕迅/周杰伦/陶喆铁粉"
+    ],
+    "musicPersonality": "品味横跨粤语、华语、欧美、日系四大板块，以情感叙事为选歌核心，对 2000 年代华语黄金时期有深厚情结，同时紧跟当代港乐新生代与 J-Pop 趋势。不局限单一风格，但对 R&B 与 Soul 元素有明显偏好。"
+  }
+}
